@@ -1,15 +1,15 @@
 # Riyadh Blog
 
-## Problem Statement
+## Learning Goals
+
+- Create an HTML structure for an existing mockup image and source text
+
+## Introduction
 
 Web developers are often asked to work from a mockup of a potential webpage,
 generally referred to as either a `mockup` or `comp`. In this lab, you'll be
 asked to use a mockup image, source text and images, and create an HTML
 structure that mirrors the mockup image.
-
-## Objectives
-
-1. Create an HTML structure for an existing mockup image and source text
 
 ### Tasks for LearnIDE Environment Users
 
@@ -57,9 +57,6 @@ Method to validate their guesses into building a model.
 
 It's possibly the most powerful learning technique possible. Toddlers and
 puppies are amazing at it!
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-riyadh-blog' title='Code Challenge 1 - Riyadh Blog'>Code Challenge 1 - Riyadh Blog</a> on Learn.co and start learning to code for free.</p>
 
 [these steps]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
 [developer tools]: https://www.youtube.com/watch?v=q3mWDijP_8w
